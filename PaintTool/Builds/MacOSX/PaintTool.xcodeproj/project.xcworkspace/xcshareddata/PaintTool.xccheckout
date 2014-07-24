@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37DC90E5-2FAE-45BF-8F61-146CCD58427C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PaintTool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D433E67E-E639-484A-82B6-652B72785A8B</key>
+		<string>ssh://r18/r18/paintTool</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PaintTool/Builds/MacOSX/PaintTool.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D433E67E-E639-484A-82B6-652B72785A8B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://r18/r18/paintTool</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D433E67E-E639-484A-82B6-652B72785A8B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D433E67E-E639-484A-82B6-652B72785A8B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>paintTool</string>
+		</dict>
+	</array>
+</dict>
+</plist>
